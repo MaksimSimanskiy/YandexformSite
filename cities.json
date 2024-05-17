@@ -1,0 +1,592 @@
+{
+  "cities": [
+    {
+      "name": "Москва",
+      "multipliers": {
+        "walk": 180,
+        "bike": 260
+      }
+    },
+    {
+      "name": "Санкт-петербург",
+      "multipliers": {
+        "walk": 180,
+        "bike": 260
+      }
+    },
+    {
+      "name": "Астрахань",
+      "multipliers": {
+        "walk": 70,
+        "bike": 120
+      }
+    },
+    {
+      "name": "Барнаул",
+      "multipliers": {
+        "walk": 90,
+        "bike": 140
+      }
+    },
+    {
+      "name": "Белгород",
+      "multipliers": {
+        "walk": 50,
+        "bike": 90
+      }
+    },
+    {
+      "name": "Белгород",
+      "multipliers": {
+        "walk": 100,
+        "bike": 180
+      }
+    },
+    {
+      "name": "Владивосток",
+      "multipliers": {
+        "walk": 170,
+        "bike": 260
+      }
+    },
+    {
+      "name": "Владикавказ",
+      "multipliers": {
+        "walk": 80,
+        "bike": 130
+      }
+    },
+    {
+      "name": "Владимир",
+      "multipliers": {
+        "walk": 150,
+        "bike": 220
+      }
+    },
+    {
+      "name": "Волгоград",
+      "multipliers": {
+        "walk": 80,
+        "bike": 110
+      }
+    },
+    {
+      "name": "Вологда",
+      "multipliers": {
+        "walk": 90,
+        "bike": 180
+      }
+    },
+    {
+      "name": "Волоколамск",
+      "multipliers": {
+        "walk": 100,
+        "bike": 140
+      }
+    },
+    {
+      "name": "Воронеж",
+      "multipliers": {
+        "walk": 130,
+        "bike": 210
+      }
+    },
+    {
+      "name": "Воскресенск",
+      "multipliers": {
+        "walk": 70,
+        "bike": 180
+      }
+    },
+    {
+      "name": "Дмитров",
+      "multipliers": {
+        "walk": 190,
+        "bike": 270
+      }
+    },
+    {
+      "name": "Дубна",
+      "multipliers": {
+        "walk": 160,
+        "bike": 230
+      }
+    },
+    {
+      "name": "Егорьевск",
+      "multipliers": {
+        "walk": 140,
+        "bike": 210
+      }
+    },
+    {
+      "name": "Екатеринбург",
+      "multipliers": {
+        "walk": 90,
+        "bike": 160
+      }
+    },
+    {
+      "name": "Егорьевск",
+      "multipliers": {
+        "walk": 140,
+        "bike": 210
+      }
+    },
+    {
+      "name": "Звенигород",
+      "multipliers": {
+        "walk": 170,
+        "bike": 330
+      }
+    },
+    {
+      "name": "Иваново",
+      "multipliers": {
+        "walk": 100,
+        "bike": 170
+      }
+    },
+    {
+      "name": "Ижевск",
+      "multipliers": {
+        "walk": 70,
+        "bike": 120
+      }
+    },
+    {
+      "name": "Иркутск",
+      "multipliers": {
+        "walk": 90,
+        "bike": 160
+      }
+    },
+    {
+      "name": "Истра",
+      "multipliers": {
+        "walk": 120,
+        "bike": 250
+      }
+    },
+    {
+      "name": "Казань",
+      "multipliers": {
+        "walk": 140,
+        "bike": 230
+      }
+    },
+    {
+      "name": "Калинград",
+      "multipliers": {
+        "walk": 70,
+        "bike": 140
+      }
+    },
+    {
+      "name": "Калуга",
+      "multipliers": {
+        "walk": 100,
+        "bike": 170
+      }
+    },
+    {
+      "name": "Кемерово",
+      "multipliers": {
+        "walk": 90,
+        "bike": 110
+      }
+    },
+    {
+      "name": "Киров",
+      "multipliers": {
+        "walk": 90,
+        "bike": 140
+      }
+    },
+    {
+      "name": "Клин",
+      "multipliers": {
+        "walk": 150,
+        "bike": 230
+      }
+    },
+    {
+      "name": "Киров",
+      "multipliers": {
+        "walk": 90,
+        "bike": 140
+      }
+    },
+    {
+      "name": "Коломна",
+      "multipliers": {
+        "walk": 150,
+        "bike": 240
+      }
+    },
+    {
+      "name": "Красноармейск",
+      "multipliers": {
+        "walk": 20,
+        "bike": 50
+      }
+    },
+    {
+      "name": "Краснодар",
+      "multipliers": {
+        "walk": 100,
+        "bike": 210
+      }
+    },
+    {
+      "name": "Красноярск",
+      "multipliers": {
+        "walk": 110,
+        "bike": 170
+      }
+    },
+    {
+      "name": "Курган",
+      "multipliers": {
+        "walk": 50,
+        "bike": 100
+      }
+    },
+    {
+      "name": "Курск",
+      "multipliers": {
+        "walk": 70,
+        "bike": 100
+      }
+    },
+    {
+      "name": "Липецк",
+      "multipliers": {
+        "walk": 140,
+        "bike": 200
+      }
+    },
+    {
+      "name": "Луховицы",
+      "multipliers": {
+        "walk": 90,
+        "bike": 130
+      }
+    },
+    {
+      "name": "Магнигорск",
+      "multipliers": {
+        "walk": 140,
+        "bike": 230
+      }
+    },
+    {
+      "name": "Махачкала",
+      "multipliers": {
+        "walk": 70,
+        "bike": 120
+      }
+    },
+    {
+      "name": "Михнево",
+      "multipliers": {
+        "walk": 30,
+        "bike": 60
+      }
+    },
+    {
+      "name": "Можайск",
+      "multipliers": {
+        "walk": 80,
+        "bike": 120
+      }
+    },
+    {
+      "name": "Мурманск",
+      "multipliers": {
+        "walk": 270,
+        "bike": 300
+      }
+    },
+    {
+      "name": "Набережные Челны",
+      "multipliers": {
+        "walk": 170,
+        "bike": 230
+      }
+    },
+    {
+      "name": "Нижний Новгород",
+      "multipliers": {
+        "walk": 150,
+        "bike": 210
+      }
+    },
+    {
+      "name": "Нижний Тагил",
+      "multipliers": {
+        "walk": 70,
+        "bike": 160
+      }
+    },
+    {
+      "name": "Новокузнецк",
+      "multipliers": {
+        "walk": 90,
+        "bike": 150
+      }
+    },
+    {
+      "name": "Новосибирск",
+      "multipliers": {
+        "walk": 130,
+        "bike": 220
+      }
+    },
+    {
+      "name": "Омск",
+      "multipliers": {
+        "walk": 80,
+        "bike": 110
+      }
+    },
+    {
+      "name": "Оренбург",
+      "multipliers": {
+        "walk": 50,
+        "bike": 100
+      }
+    },
+    {
+      "name": "Орехово-зуево",
+      "multipliers": {
+        "walk": 190,
+        "bike": 290
+      }
+    },
+    {
+      "name": "Павловский Посад",
+      "multipliers": {
+        "walk": 180,
+        "bike": 330
+      }
+    },
+    {
+      "name": "Пенза",
+      "multipliers": {
+        "walk": 70,
+        "bike": 120
+      }
+    },
+    {
+      "name": "Пермь",
+      "multipliers": {
+        "walk": 90,
+        "bike": 120
+      }
+    },
+    {
+      "name": "Ростов-на-дону",
+      "multipliers": {
+        "walk": 120,
+        "bike": 220
+      }
+    },
+    {
+      "name": "Руза",
+      "multipliers": {
+        "walk": 70,
+        "bike": 120
+      }
+    },
+    {
+      "name": "Рязань",
+      "multipliers": {
+        "walk": 90,
+        "bike": 130
+      }
+    },
+    {
+      "name": "Самара",
+      "multipliers": {
+        "walk": 140,
+        "bike": 190
+      }
+    },
+    {
+      "name": "Саранск",
+      "multipliers": {
+        "walk": 50,
+        "bike": 70
+      }
+    },
+    {
+      "name": "Саратов",
+      "multipliers": {
+        "walk": 80,
+        "bike": 140
+      }
+    },
+    {
+      "name": "Сергиев Посад",
+      "multipliers": {
+        "walk": 180,
+        "bike": 310
+      }
+    },
+    {
+      "name": "Серпухов",
+      "multipliers": {
+        "walk": 280,
+        "bike": 380
+      }
+    },
+    {
+      "name": "Смоленск",
+      "multipliers": {
+        "walk": 60,
+        "bike": 120
+      }
+    },
+    {
+      "name": "Солнечногорск",
+      "multipliers": {
+        "walk": 170,
+        "bike": 180
+      }
+    },
+    {
+      "name": "Сочи",
+      "multipliers": {
+        "walk": 120,
+        "bike": 180
+      }
+    },
+    {
+      "name": "Ставрополь",
+      "multipliers": {
+        "walk": 140,
+        "bike": 230
+      }
+    },
+    {
+      "name": "Ступино",
+      "multipliers": {
+        "walk": 140,
+        "bike": 240
+      }
+    },
+    {
+      "name": "Сургут",
+      "multipliers": {
+        "walk": 140,
+        "bike": 170
+      }
+    },
+    {
+      "name": "Тверь",
+      "multipliers": {
+        "walk": 90,
+        "bike": 140
+      }
+    },
+    {
+      "name": "Тольятти",
+      "multipliers": {
+        "walk": 60,
+        "bike": 100
+      }
+    },
+    {
+      "name": "Томск",
+      "multipliers": {
+        "walk": 80,
+        "bike": 130
+      }
+    },
+    {
+      "name": "Тула",
+      "multipliers": {
+        "walk": 120,
+        "bike": 170
+      }
+    },
+    {
+      "name": "Тюмень",
+      "multipliers": {
+        "walk": 90,
+        "bike": 140
+      }
+    },
+    {
+      "name": "Ульяновск",
+      "multipliers": {
+        "walk": 80,
+        "bike": 110
+      }
+    },
+    {
+      "name": "Уфа",
+      "multipliers": {
+        "walk": 110,
+        "bike": 150
+      }
+    },
+    {
+      "name": "Хабаровск",
+      "multipliers": {
+        "walk": 160,
+        "bike": 240
+      }
+    },
+    {
+      "name": "Чебоксары",
+      "multipliers": {
+        "walk": 60,
+        "bike": 80
+      }
+    },
+    {
+      "name": "Челябинск",
+      "multipliers": {
+        "walk": 90,
+        "bike": 150
+      }
+    },
+    {
+      "name": "Череповец",
+      "multipliers": {
+        "walk": 170,
+        "bike": 240
+      }
+    },
+    {
+      "name": "Чехов",
+      "multipliers": {
+        "walk": 120,
+        "bike": 190
+      }
+    },
+    {
+      "name": "Шатура",
+      "multipliers": {
+        "walk": 60,
+        "bike": 100
+      }
+    },
+    {
+      "name": "Электросталь",
+      "multipliers": {
+        "walk": 170,
+        "bike": 260
+      }
+    },
+    {
+      "name": "Ярославль",
+      "multipliers": {
+        "walk": 90,
+        "bike": 130
+      }
+    }
+  ]
+}
